@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Life_Admin" />
+        <module name="Life_Gateway" />
+        <module name="Life_Health" />
+        <module name="Life_Social" />
+        <module name="Life_User" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Life" target="1.5" />
+      <module name="Life_Admin" target="1.8" />
+      <module name="Life_Gateway" target="1.8" />
+      <module name="Life_Health" target="1.8" />
+      <module name="Life_Social" target="1.8" />
+      <module name="Life_User" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

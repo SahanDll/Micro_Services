@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Life.iml" filepath="$PROJECT_DIR$/Life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Life_Admin/Life_Admin.iml" filepath="$PROJECT_DIR$/Life_Admin/Life_Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Life_Gateway/Life_Gateway.iml" filepath="$PROJECT_DIR$/Life_Gateway/Life_Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Life_Health/Life_Health.iml" filepath="$PROJECT_DIR$/Life_Health/Life_Health.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Life_Social/Life_Social.iml" filepath="$PROJECT_DIR$/Life_Social/Life_Social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Life_User/Life_User.iml" filepath="$PROJECT_DIR$/Life_User/Life_User.iml" />
+    </modules>
+  </component>
+</project>
