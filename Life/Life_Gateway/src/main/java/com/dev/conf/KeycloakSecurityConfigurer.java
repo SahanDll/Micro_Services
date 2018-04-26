@@ -48,7 +48,7 @@ public class KeycloakSecurityConfigurer extends KeycloakWebSecurityConfigurerAda
 
     @Override
     public void configure(WebSecurity web) throws Exception {
-        web.ignoring().antMatchers( "/api/login");
+        web.ignoring().antMatchers( "/api/login", "/api/refresh");
     }
 
     @Override
